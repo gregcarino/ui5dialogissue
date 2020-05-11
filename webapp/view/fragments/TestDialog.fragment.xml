@@ -1,0 +1,5 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<Dialog title="Test Dialog" contentHeight="25em" contentWidth="20em">
+		<Text text="This is a test dialog"/>
+	</Dialog>
+</core:FragmentDefinition>
